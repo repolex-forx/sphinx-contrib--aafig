@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/aafig/commit/4b192aa8d69def23a279e87b5e60beee40886ae0",
       "git:hexsha": "4b192aa8d69def23a279e87b5e60beee40886ae0",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/aafig/commit/b9a3b5468c75e195d6fcda9503c42be96b61069c",
