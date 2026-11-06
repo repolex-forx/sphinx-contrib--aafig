@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "aafig",
+  "versions": [
+    {
+      "commit": "4b192aa8d69def23a279e87b5e60beee40886ae0",
+      "tag": "",
+      "parsed_at": "2026-11-06T08:40:26.612542+00:00"
+    }
+  ]
+}
